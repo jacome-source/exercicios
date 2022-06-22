@@ -1,0 +1,8 @@
+Esse projeto ler um arquivo csv e escreve o resultado em outra planilha
+
+1- O projeto foi criado no eclipse com spring boot
+2- Para rodar o projeto vá nas opções: Run as -> Run Configurations
+3- Adicione no Program Arguments o caminho do arquivo de input. ex: ../input
+4- Esse projeto contém o arquivo de input em um nível acima do diretório raiz, o exemplo acima "../input" irá funcionar
+5- Clique em run. 
+6- O arquivo resultado será gerado na pasta anterior a raiz com o nome result.csv
